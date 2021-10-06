@@ -1,6 +1,6 @@
 # 機能
-Visual Regression Testing(VRT)
-画像取得(nodejs) -> 画像比較(ツール使用)
+  - Visual Regression Testing(VRT)
+  - 画像取得(nodejs) -> 画像比較(ツール使用)
 　
 # 特徴
   - 試験用の画像取得(nodejs)
