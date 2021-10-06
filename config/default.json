@@ -1,0 +1,12 @@
+{
+  "globalSetting": {
+    "_comment": "「selectBrowser」はchrome, firefox, ie, edge",
+    "selectBrowser": "chrome",
+    "domainFront": "https://cookpad.com",
+    "enableHeadless": false
+  },
+  "kondate": {
+    "userid1": "sla10132000@yahoo.co.jp",
+    "userpw1": "bronze"
+  }
+}
