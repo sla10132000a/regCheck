@@ -10,7 +10,7 @@
 
 
 ## 機能一覧
-- VRTツールを使用し、修正前後の画面比較(picture/report.html)
+- VRTツールを使用し、修正前後の画面比較(picture/report.html)。赤色、相違点。下記例
 
 ![image](https://user-images.githubusercontent.com/89893576/136135228-022b46f6-a1da-4696-97bb-f3ecbbcd1f08.png)
 
